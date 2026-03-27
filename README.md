@@ -42,7 +42,7 @@ stock-pipeline/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/stock-pipeline.git
+git clone https://github.com/yasserBo/stock-pipeline.git
 cd stock-pipeline
 ```
 
